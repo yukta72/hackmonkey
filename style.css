@@ -1,4 +1,32 @@
-h1 {
-    text-align: center;
 
+.nav-input{
+    width: 150px;
+    padding: 5px 5px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-weight: lighter;
+    color: gray;
+    font-size: 12px;
+}
+.login
+{
+    margin-top: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 130px;
+    font-size: 12px;
+    background-color: #2F6DAD;
+    font-weight: lighter;
+    text-shadow: 1px 1px #2F6DAD;
+    color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #2F6DAD;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+}
+.nav-design{
+    background-color: #b3668d;
+    background-image: linear-gradient(to right, #b3668d , #74c2cc);
 }
