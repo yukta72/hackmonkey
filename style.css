@@ -26,7 +26,19 @@
     border: 1px solid #2F6DAD;
     box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
 }
-.nav-design{
+.nav-design {
     background-color: #b3668d;
-    background-image: linear-gradient(to right, #b3668d , #74c2cc);
+    background-image: linear-gradient(to right, #b3668d, #74c2cc);
 }
+.vertical {
+    border-left: 6px solid black;
+    height: 600px;
+
+    Right: 50px%;
+}
+<style>
+ .vertical {
+     border-left: 6px solid black;
+     height: 200px;
+     left: 75px%;
+ }
