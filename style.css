@@ -32,7 +32,7 @@
 }
 .vertical {
     border-left: 6px solid black;
-    height: 600px;
+    height: 200px;
 
     Right: 50px%;
 }
@@ -40,5 +40,5 @@
  .vertical {
      border-left: 6px solid black;
      height: 200px;
-     left: 75px%;
+     left: 50px%;
  }
